@@ -1,0 +1,12 @@
+backend/vendor
+backend/.env
+backend/public/storage
+backend/storage/framework/views/*.php
+backend/storage/framework/cache/data/*
+!backend/storage/framework/cache/data/.gitkeep
+backend/storage/framework/sessions/*
+!backend/storage/framework/sessions/.gitkeep
+backend/storage/logs/*.log
+frontend/node_modules
+frontend/dist
+frontend/.env

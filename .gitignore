@@ -1,5 +1,7 @@
 backend/vendor
 backend/.env
+backend/*.sql
+backend/*.zip
 backend/public/storage
 backend/storage/framework/views/*.php
 backend/storage/framework/cache/data/*
@@ -7,6 +9,7 @@ backend/storage/framework/cache/data/*
 backend/storage/framework/sessions/*
 !backend/storage/framework/sessions/.gitkeep
 backend/storage/logs/*.log
+*.zip
 frontend/node_modules
 frontend/dist
 frontend/.env
